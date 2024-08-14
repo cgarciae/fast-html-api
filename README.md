@@ -7,5 +7,5 @@ poetry shell
 ```
 ## Usage
 ```bash
-python main.py
+python -m app.main
 ```
